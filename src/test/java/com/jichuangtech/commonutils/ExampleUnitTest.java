@@ -1,4 +1,4 @@
-package com.starnet.commonutils;
+package com.jichuangtech.commonutils;
 
 import org.junit.Test;
 
