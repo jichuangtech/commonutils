@@ -1,4 +1,4 @@
-package com.starnet.commonutils.thread;
+package com.jichuangtech.commonutils.thread;
 
 import android.os.Handler;
 import android.os.HandlerThread;
